@@ -134,3 +134,4 @@ C:\Users\davi_\source\repos\Api_com_EF\Api_com_EF\obj\Debug\net8.0\refint\Api_co
 C:\Users\davi_\source\repos\Api_com_EF\Api_com_EF\obj\Debug\net8.0\Api_com_EF.pdb
 C:\Users\davi_\source\repos\Api_com_EF\Api_com_EF\obj\Debug\net8.0\Api_com_EF.genruntimeconfig.cache
 C:\Users\davi_\source\repos\Api_com_EF\Api_com_EF\obj\Debug\net8.0\ref\Api_com_EF.dll
+C:\Users\davi_\source\repos\Api_com_EF\Api_com_EF\obj\Debug\net8.0\Api_com_EF.sourcelink.json
